@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.houtrry.lifecycle_plugin_group</groupId>
+  <artifactId>asm_lifecycle_plugin</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20200426093956</lastUpdated>
+  </versioning>
+</metadata>
